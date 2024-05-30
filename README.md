@@ -1,6 +1,3 @@
-Here's a detailed description for your `README.md` file to describe your Simon game project on GitHub:
-
----
 
 # Simon Game
 
@@ -92,3 +89,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Feel free to modify this template to better fit your specific project details and repository structure.
+
+
+### Sample Screenshot
+![Sample Screenshot](simon_game.GIF)
