@@ -92,4 +92,4 @@ Feel free to modify this template to better fit your specific project details an
 
 
 ### Sample Screenshot
-![Sample Screenshot](simon_game.GIF)
+![Sample Screenshot](Simon_game.gif)
