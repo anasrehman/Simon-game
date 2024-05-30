@@ -66,7 +66,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
     - Click the "Fork" button on the upper right corner of the repo page.
 2. **Clone your forked repository**:
     ```bash
-    git clone https://github.com/your-username/simon-game.git
+    https://github.com/anasrehman/Simon-game.git
     ```
 3. **Create a new branch**:
     ```bash
